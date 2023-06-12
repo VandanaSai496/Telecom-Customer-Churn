@@ -8,10 +8,12 @@ I've taken a telecom company dataset, this is a fiticonal dataset.Telecom indust
 
 In our dataset, we have different types of information of our customers.
 
-a) 
-b)
-c)
+a) Demographic Information : This refers to the customer's gender, age group, location etc. 
+b) Account-level Information: This refers to the information specific to their accountwith the company
+c) Services Information: This is the kind of services they've opted for
 
 Here are the steps we are following in this project:
+**Data Reading**  --> **Exploratory Data Analysis and Data Cleaning --> **Data Visualization --> Feature Importance  --> Feature Engineering --> Setting a baseline --> Splitting the data in training and testing sets
+--> Assessing multiple algorithms --> Algorithm selected: Gradient Boosting--> Hyperparameter tuning--> Performance of the model--> Drawing conclusions — Summary
 
-Here's a link to the dataset: 
+Here's a link to the dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
